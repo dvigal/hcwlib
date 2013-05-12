@@ -1,7 +1,7 @@
 name: hcwlib
 version: 1.0
 license: BSD3
-homepage:	https://github.com/hcw-lib
+homepage:	https://github.com/dvigal/hcwlib
 build-type: Simple
 cabal-version: >=1.6
 
